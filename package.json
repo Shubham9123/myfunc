@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shubham9123/myfunc/issues"
   },
-  "homepage": "https://github.com/Shubham9123/myfunc#readme"
+  "homepage": "https://github.com/Shubham9123/myfunc#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
